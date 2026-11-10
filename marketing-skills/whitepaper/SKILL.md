@@ -1,5 +1,5 @@
 ---
-name: whitepaper
+name: post-whitepaper
 description: Publish a whitepaper on the aiDataWorks website - a landing page plus the downloadable PDF, listed on whitepapers.html. Use when asked to add, publish, or write the landing page for a whitepaper, guide, playbook, or e-book.
 ---
 

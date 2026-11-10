@@ -1,5 +1,5 @@
 ---
-name: blog-post
+name: post-blog-post
 description: Write and publish a blog post on the aiDataWorks website. Use when asked to write, draft, add, or publish a blog post or article for blog.html, or to turn notes, a talk, or an engagement learning into a blog post.
 ---
 

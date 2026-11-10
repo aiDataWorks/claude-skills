@@ -1,5 +1,5 @@
 ---
-name: faq
+name: post-faq
 description: Add, edit, or reorganize questions on the aiDataWorks FAQ page (faq.html). Use when asked to add an FAQ, answer a common customer question on the site, or update the FAQ section.
 ---
 

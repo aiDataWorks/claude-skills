@@ -1,5 +1,5 @@
 ---
-name: event
+name: post-event
 description: Add an event or webinar to the aiDataWorks website - a page under events/ plus a card on webinars.html - or move a finished event to Past events. Use when asked to announce a conference appearance, webinar, meetup, or booth, or to update the events page.
 ---
 

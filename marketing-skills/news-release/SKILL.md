@@ -1,5 +1,5 @@
 ---
-name: news-release
+name: post-news-release
 description: Publish a press release or company announcement in the aiDataWorks Newsroom - a page under news/ plus a card on newsroom.html. Use when asked to post a press release, partnership announcement, certification, award, or other company news.
 ---
 

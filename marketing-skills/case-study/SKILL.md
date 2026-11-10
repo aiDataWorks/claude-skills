@@ -1,5 +1,5 @@
 ---
-name: case-study
+name: post-case-study
 description: Write and publish a client case study on the aiDataWorks website - a page under case-studies/ plus an entry in the case-studies.html listing data. Use when asked to write up an engagement, turn a project summary into a case study, or add a case study to the site.
 ---
 
